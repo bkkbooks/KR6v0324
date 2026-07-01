@@ -1,0 +1,140 @@
+canonical_identifier: bkk:krp/KR6v0324/v1
+canonical_location: https://kanripo.org/bkk/KR6v0324/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 阿毗達摩攝義論
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B07/B07n0025.xml
+    old_id: B07n0025
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0324_000.yaml, hash: 'sha256:3d5f9f5b346a8fa7d9d3cc6b2b959817e2f8bbd96935804b461bf88bcb1198ea'}
+  - {seq: 1, filename: KR6v0324_001.yaml, hash: 'sha256:41ce4b62336d6939d0702a2511d38c78c714153ebe958ef989f6c3f137bb8324'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0324_000.markers.yaml, hash: 'sha256:3ac77d2a1f8c506ac492d0116f02ba57b87e5ea2a2eacbd39ae6d12ed360c77e'}
+  - {seq: 1, role: markers, filename: assets/KR6v0324_001.markers.yaml, hash: 'sha256:ed59e5855d6c6af53798ab99260b1e246264e9bde9b039c2b192e99b357ad4dc'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0324_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 南傳阿毗達摩攝義論目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0324_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 16625
+  label: 阿毗達摩攝義論
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0324_B_001-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 分別攝心品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0324_B_001-mulu-2
+    span:
+    - body
+    - 1649
+    - 1649
+  label: 分別攝心所品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0324_B_001-mulu-3
+    span:
+    - body
+    - 3587
+    - 3587
+  label: 分別攝類別品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0324_B_001-mulu-4
+    span:
+    - body
+    - 5314
+    - 5314
+  label: 分別攝毗提品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0324_B_001-mulu-5
+    span:
+    - body
+    - 7053
+    - 7053
+  label: 分別攝離毘提品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0324_B_001-mulu-6
+    span:
+    - body
+    - 9447
+    - 9447
+  label: 分別色品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0324_B_001-mulu-7
+    span:
+    - body
+    - 11176
+    - 11176
+  label: 分別攝集法品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0324_B_001-mulu-8
+    span:
+    - body
+    - 12483
+    - 12483
+  label: 分別攝緣品第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0324_B_001-mulu-9
+    span:
+    - body
+    - 14240
+    - 14240
+  label: 分別攝行境品第九
+  type: mulu
+  level: 1
+hash: sha256:468c0b4e05b3cf304941b6923a4ff766b6946a5c0302a6b8f6cd3677258fc464
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
