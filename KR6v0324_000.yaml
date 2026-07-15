@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR6v0324/b/v1/juan/0
 seq: 0
 front:
-  text: 南傳阿毗達摩攝義論目錄分別攝心品第一分別攝心所品第二分別攝數別品第三分別攝毗提品第四分別攝離毗提品第五分別攝色品第六分別攝集法品第七分別攝緣品第八分別攝行境品第九
-  hash: sha256:13356c14ccc2c9a96db845de3f8d0c6cc579cc3cdf7afdae772b37fd77e9cc9b
+  text: 南傳阿毗達摩攝義論目録分別攝心品第一分別攝心所品第二分別攝數別品第三分別攝毗提品第四分別攝離毗提品第五分別攝色品第六分別攝集法品第七分別攝緣品第八分別攝行境品第九
+  hash: sha256:b329fff5bc79a4e2626c152b6355abcc830134cb2d063c4e6795da0afbffcde2
   markers:
   - {type: 其他, offset: 0, content: 南傳阿毗達摩攝義論目錄, id: KR6v0324_B_000-mulu-1, level: '1'}
 body:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/B/B07/B07n0025.xml
     old_id: B07n0025
-hash: sha256:2b67a3aeab07c6605ae5fbd8bf7813d5e7ed75125eec87dd07e9fe53eec804ad
+hash: sha256:3d5f9f5b346a8fa7d9d3cc6b2b959817e2f8bbd96935804b461bf88bcb1198ea
