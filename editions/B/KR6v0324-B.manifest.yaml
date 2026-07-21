@@ -19,17 +19,17 @@ metadata:
     short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0324_000-B.yaml, hash: 'sha256:2b67a3aeab07c6605ae5fbd8bf7813d5e7ed75125eec87dd07e9fe53eec804ad'}
+  - {seq: 0, filename: KR6v0324_000-B.yaml, hash: 'sha256:37ef8f4a4635338883f7f8ea7355831e7e6e3f29e519ecb7e3fbd828e187b0d1'}
   - {seq: 1, filename: KR6v0324_001-B.yaml, hash: 'sha256:be8fe906a2fe120710acf4f147bfb881ca65eabea1c52e766a082167ed962b5d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0324_000-B.markers.yaml, hash: 'sha256:8050e266b3c1d53d08ef14413555bb08e7d0c5cf95abab8606e8fecc7d16790d'}
+  - {seq: 0, role: markers, filename: assets/KR6v0324_000-B.markers.yaml, hash: 'sha256:99044061468b8a67c6cd326deda391dd445fa8002d66a30af55b8d06a7ecaf05'}
   - {seq: 1, role: markers, filename: assets/KR6v0324_001-B.markers.yaml, hash: 'sha256:311ce6b15a6da6bbdea2a1aa69b8d9dc72892a93da2d9e0ab3ed840774108796'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0324_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 南傳阿毗達摩攝義論目錄
@@ -135,4 +135,4 @@ table_of_contents:
   label: 分別攝行境品第九
   type: mulu
   level: 1
-hash: sha256:1b272f32e242c001ed1f54d3ed681715ad3dabe128323b1a3941a192e257aa2c
+hash: sha256:49d38da5ee7657958a218405554f49b1cc299a97ca41fd8580b2d22a406b7df4
